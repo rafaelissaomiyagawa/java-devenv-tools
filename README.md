@@ -1,4 +1,5 @@
 # Java Development Environment Tools
 
-1. [Git & Github](git/README.md)
-2. [SDKMAN](sdkman/README.md)
+1. [SDKMAN](sdkman/README.md)
+2. [Gradle](gradle/README.md)
+3. [Git & Github](git/README.md)
